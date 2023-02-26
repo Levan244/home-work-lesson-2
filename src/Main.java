@@ -32,7 +32,7 @@ public class Main {
         System.out.println("Задача 2");
         float a = 27.12F;
         System.out.println("Значение переменной a с типом float  равно " + a );
-        long b = 987678965549L;
+        long b = 987_678_965_549L;
         System.out.println("Значение переменной b с типом long равно " + b);
         double d = 2.786;
         System.out.println("Значение переменной d с типом double  равно " + d);
