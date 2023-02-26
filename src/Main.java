@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Значение переменной bolls с типом byte равно " + bolls);
         short games =2366 ;
         System.out.println("Значение переменной games с типом short  равно " + games );
-        long outs = 17787822L ;
+        long outs = 171_787_822L ;
         System.out.println("Значение переменной out с типом long равно " + outs);
         float goat = 36.6F ;
         System.out.println("Значение переменной goat с типом float  равно " + goat );
